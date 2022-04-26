@@ -54,6 +54,7 @@ class Hangman:
 
         print('The mystery word has', self.num_letters, ' unique characters')
         print(self.word_guessed)
+        print('change for branch tester!')
 
         self.hangman_animation = [
 
